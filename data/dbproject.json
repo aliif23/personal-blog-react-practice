@@ -1,0 +1,60 @@
+{
+  "project": [
+    {
+      "nama": "Virtual Tour ILITS",
+      "type" : "Game Development",
+      "client" : "IniLho ITS",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : ["ilits1","ilits2","ilits3","ilits4","ilits5","ilits6","ilits7","ilits8"],
+      "id": 1
+    },
+    {
+      "nama": "ERP for PT.CSB",
+      "type" : "ERP Implementation",
+      "client" : "PT.Cipta Sinergi Bisnis",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : ["ilits2","ilits1","ilits3","ilits4","ilits5","ilits6","ilits7","ilits8"],
+      "id": 2
+    },
+    {
+      "nama": "BytheAspen",
+      "type" : "Web Development",
+      "client" : "BytheAspen",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : ["ilits3","ilits2","ilits1","ilits4","ilits5","ilits6","ilits7","ilits8"],
+      "id": 3
+    },
+    {
+      "nama": "Virtual Tour CIVEX",
+      "type" : "Game Development",
+      "client" : "Civil Expo",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : ["ilits4","ilits2","ilits3","ilits5","ilits5","ilits6","ilits7","ilits8"],
+      "id": 4
+    },
+    {
+      "nama": "PT.Digdaya Asa Pratama",
+      "type" : "Web Development",
+      "client" : "PT.Digdaya Asa Pratama",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : ["ilits5","ilits2","ilits3","ilits4","ilits1","ilits6","ilits7","ilits8"],
+      "id": 5
+    },
+    {
+      "nama": "PT.SEB",
+      "type" : "Web Development",
+      "client" : "PT.SEB",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : ["ilits6","ilits2","ilits3","ilits4","ilits5","ilits1","ilits7","ilits8"],
+      "id": 6
+    },
+    {
+      "nama": "Virtual Tour TEDX ITS",
+      "type" : "Game Development",
+      "client" : "TEDX ITS",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : ["ilits1","ilits2","ilits3","ilits4","ilits5","ilits6","ilits7","ilits8"],
+      "id": 7
+    }
+  ]
+}

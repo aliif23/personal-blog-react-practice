@@ -1,0 +1,40 @@
+{
+  "skill": [
+    {
+      "nama": "ReactJS",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : "react.png",
+      "id": 1
+    },
+    {
+      "nama": "JavaScript",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : "js.png",
+      "id": 2
+    },
+    {
+      "nama": "MySQL",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : "mysql.png",
+      "id": 3
+    },
+    {
+      "nama": "Project Management",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : "project.png",
+      "id": 4
+    },
+    {
+      "nama": "Requirement Engineering",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : "requirement.png",
+      "id": 5
+    },
+    {
+      "nama": "Business Development",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores provident veniam at et eligendi reprehenderit, quae tempore esse nisi? Autem temporibus quaerat saepe, rem ea vitae beatae id nostrum?",
+      "gambar" : "business.png",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+.about{
+    padding-bottom: 20px;
+}
+
+
+.parallax img{
+    filter: blur(3px) grayscale(60%);
+}
+
+.education .container h2{
+    text-shadow: black 1px 1px 10px;
+}
+
+.logo{
+    max-width: 150px;
+    margin-bottom: 15px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+.parallax-container{
+    min-height: 400px;
+}
+
+.background img{
+    width: 300px;
+}
+
+
+.rowlogo{
+    padding-top: 20px;
+}
+.work{
+    padding-top: 20px;
+}
+
+.gambar{
+    width:300px;
+    height:120px
+}
+
+.user{
+    border-radius: 50%;
+    margin-bottom: 30px;
+    border-left: 1px solid blue;
+}
+
+.project{
+    margin-top: 30px;
+}
+
+.whatido{
+    background-color: lightyellow;
+    border-left: greenyellow 10px solid;
+    padding-left: 10px;
+    padding: 10px;
+}
+
+.logoheader{
+    width: 30px;
+    position: absolute;
+    display: inline;
+}
+
+.links{
+    display: grid;
+    grid-template-columns: 30px 30px 30px 30px;
+    gap: 10px;
+    position: relative;
+    bottom: 140px;
+    left: 150px;
+}
+
+.loading{
+    position: relative;
+    top: 200px;
+
+}
+
+.gambarutama img{
+    width: 100%;
+}
+
+.slide{
+    margin-bottom: 20px; 
+}
+.slide img{
+    width: 100%;
+}
+
+
+.org ,.gambarwork{
+    width: 300px;
+    height: 200px;
+}
+
+.back{
+    position: relative;
+    top:  30px;
+}
+
+
+.kertu{
+    min-height: 280px;
+}
+
+.contactlogo{
+    width: 20px;
+    position: relative;
+    top: 15px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
